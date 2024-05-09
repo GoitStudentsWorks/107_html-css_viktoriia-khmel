@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-CodeNinjas/",
+    "build": "vite build --base=/107_html-css_viktoriia-khmel/",
     "preview": "vite preview"
   },
   "devDependencies": {
